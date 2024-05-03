@@ -2977,7 +2977,7 @@ root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _react.StrictMode), {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-dom/client":"lOjBx","./components/App":"ey9du","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iTorj":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-dom/client":"lOjBx","./components/App":"bCxdS","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iTorj":[function(require,module,exports) {
 "use strict";
 module.exports = require("ee51401569654d91");
 
@@ -27220,11 +27220,11 @@ module.exports = require("ef03b89c8fe2794e");
     /* global __REACT_DEVTOOLS_GLOBAL_HOOK__ */ if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== "undefined" && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop === "function") __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop(new Error());
 })();
 
-},{}],"ey9du":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$9bc7 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+},{}],"bCxdS":[function(require,module,exports) {
+var $parcel$ReactRefreshHelpers$475a = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$9bc7.prelude(module);
+$parcel$ReactRefreshHelpers$475a.prelude(module);
 
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
@@ -27253,7 +27253,7 @@ function App() {
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                 children: advice
             }, void 0, false, {
-                fileName: "src/components/App.js",
+                fileName: "src/components/App.jsx",
                 lineNumber: 21,
                 columnNumber: 7
             }, this),
@@ -27261,20 +27261,20 @@ function App() {
                 onClick: getAdvice,
                 children: "Get advice"
             }, void 0, false, {
-                fileName: "src/components/App.js",
+                fileName: "src/components/App.jsx",
                 lineNumber: 22,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _messageDefault.default), {
                 count: count
             }, void 0, false, {
-                fileName: "src/components/App.js",
+                fileName: "src/components/App.jsx",
                 lineNumber: 23,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
-        fileName: "src/components/App.js",
+        fileName: "src/components/App.jsx",
         lineNumber: 20,
         columnNumber: 5
     }, this);
@@ -27284,12 +27284,51 @@ _c = App;
 var _c;
 $RefreshReg$(_c, "App");
 
-  $parcel$ReactRefreshHelpers$9bc7.postlude(module);
+  $parcel$ReactRefreshHelpers$475a.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react":"21dqq","./Message":"i84kQ"}],"gkKU3":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Message":"h5H0S","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"h5H0S":[function(require,module,exports) {
+var $parcel$ReactRefreshHelpers$9d5f = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+var prevRefreshReg = window.$RefreshReg$;
+var prevRefreshSig = window.$RefreshSig$;
+$parcel$ReactRefreshHelpers$9d5f.prelude(module);
+
+try {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "default", ()=>Message);
+var _jsxDevRuntime = require("react/jsx-dev-runtime");
+function Message(props) {
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+        children: [
+            "You have read ",
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("strong", {
+                children: props.count
+            }, void 0, false, {
+                fileName: "src/components/Message.jsx",
+                lineNumber: 4,
+                columnNumber: 23
+            }, this),
+            " pieces of advice"
+        ]
+    }, void 0, true, {
+        fileName: "src/components/Message.jsx",
+        lineNumber: 3,
+        columnNumber: 7
+    }, this);
+}
+_c = Message;
+var _c;
+$RefreshReg$(_c, "Message");
+
+  $parcel$ReactRefreshHelpers$9d5f.postlude(module);
+} finally {
+  window.$RefreshReg$ = prevRefreshReg;
+  window.$RefreshSig$ = prevRefreshSig;
+}
+},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"gkKU3":[function(require,module,exports) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -27457,45 +27496,6 @@ function registerExportsForReactRefresh(module1) {
     }
 }
 
-},{"7422ead32dcc1e6b":"786KC"}],"i84kQ":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$484b = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$484b.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "default", ()=>Message);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-function Message(props) {
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-        children: [
-            "You have read ",
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("strong", {
-                children: props.count
-            }, void 0, false, {
-                fileName: "src/components/Message.js",
-                lineNumber: 4,
-                columnNumber: 23
-            }, this),
-            " pieces of advice"
-        ]
-    }, void 0, true, {
-        fileName: "src/components/Message.js",
-        lineNumber: 3,
-        columnNumber: 7
-    }, this);
-}
-_c = Message;
-var _c;
-$RefreshReg$(_c, "Message");
-
-  $parcel$ReactRefreshHelpers$484b.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["farZc","1xC6H","8lqZg"], "8lqZg", "parcelRequire48ac")
+},{"7422ead32dcc1e6b":"786KC"}]},["farZc","1xC6H","8lqZg"], "8lqZg", "parcelRequire48ac")
 
 //# sourceMappingURL=index.975ef6c8.js.map

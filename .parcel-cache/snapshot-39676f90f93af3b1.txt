@@ -1,4 +1,4 @@
-5994
+5993
 99C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133591769248959115 0
 81C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\process\package.json133591785720413026 0
 117C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133591769410498123 1
@@ -38,7 +38,7 @@
 117C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\csso\node_modules\css-tree\lib\tokenizer\adopt-buffer.js133591769571699359 0
 104C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\css-tree\lib\syntax\node\NestingSelector.js133591769622792174 0
 78C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\process\README.md133591785720433039 0
-74C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\dist\index.975ef6c8.js.map133591807598227232 0
+74C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\dist\index.975ef6c8.js.map133591823004850982 0
 74C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\lmdb\index.js133591769573560503 0
 76C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\process\LICENSE133591785720463022 0
 89C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\@parcel\transformer-json\lib133591769082529911 1
@@ -69,7 +69,7 @@
 94C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\@swc\helpers\cjs\_ts_decorate.cjs133591769488683007 0
 91C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\css-what\lib\commonjs\index.js133591769086118182 0
 71C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\is-extglob133591769098771573 1
-52C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\dist133591807598227232 1
+52C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\dist133591823004850982 1
 103C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133591769497584169 0
 114C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\caniuse-lite\data\features\comparedocumentposition.js133591769544610965 0
 110C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\dom-serializer\node_modules\entities\package.json133591769178948050 0
@@ -116,7 +116,7 @@
 51C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src133591782984849533 1
 125C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133591769204526238 0
 101C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\csso\node_modules\css-tree\cjs\index.cjs133591769443793338 0
-62C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src\components133591803399040649 1
+62C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src\components133591822999439940 1
 83C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\picomatch\package.json133591769173409981 0
 101C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\caniuse-lite\data\features\filereader.js133591769659524992 0
 77C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\domutils\LICENSE133591769072152793 0
@@ -133,7 +133,6 @@
 75C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\domhandler\lib133591769174359562 1
 60C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src\index.js133591783088630378 0
 77C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\.bin\js-yaml.cmd133591769875387138 0
-69C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src\components\App.js133591807594993264 0
 97C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\css-tree\cjs\generator\sourceMap.cjs133591769542967220 0
 85C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\htmlparser2\package.json133591769164719939 0
 69C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\error-ex133591769098352792 1
@@ -2337,6 +2336,7 @@
 92C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\caniuse-lite\data\regions\SR.js133591769861221017 0
 89C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\lightningcss\node\index.d.ts133591769263860072 0
 92C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\lightningcss\node\index.js.flow133591769160787241 0
+70C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src\components\App.jsx133591807594993264 0
 91C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\lightningcss\node\targets.d.ts133591769267797659 0
 84C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\color-convert\README.md133591769152386602 0
 94C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\lightningcss\node\targets.js.flow133591769163785808 0
@@ -2544,7 +2544,6 @@
 100C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133591769670084373 0
 92C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\htmlnano\lib\modules\custom.cjs133591769162037654 0
 92C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\htmlnano\lib\modules\custom.mjs133591769486409586 0
-72C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src\components\Advice.js133591806572434548 0
 92C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\caniuse-lite\data\regions\TL.js133591769862399547 0
 90C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\@parcel\namer-default\LICENSE133591769072676851 0
 89C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\entities\lib\encode.d.ts.map133591769262210847 0
@@ -5991,5 +5990,5 @@
 76C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\.bin\semver.cmd133591769875624638 0
 74C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\.bin\svgo.cmd133591769875624638 0
 74C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\node_modules\.bin\svgo.ps1133591769875624638 0
-73C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src\components\Message.js133591792817985668 0
-70C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\dist\index.975ef6c8.js133591807598122597 0
+74C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\src\components\Message.jsx133591792817985668 0
+70C:\Users\Timmy\Desktop\Osmovic-Media\Advice-app\dist\index.975ef6c8.js133591823004526301 0
